@@ -7,3 +7,9 @@ body{background-color: blue;
 .mu{
     color: white;
 }
+.nav-link{
+    color: white;
+}
+.nav-link disabled{
+    color: white;
+}
